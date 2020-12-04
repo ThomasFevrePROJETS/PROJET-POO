@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Fichiers sources">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Fichiers de ressources">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MainForm.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="BackForm.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Table.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Client.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Employe.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Commande.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Produit.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MainForm.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="BackForm.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Table.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Client.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Employe.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Commande.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Produit.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="afficherClientScript.sql">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="afficherEmployeScript.sql">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="ajouterEmployeScript.sql">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="modifierEmployeScript.sql">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="supprimerEmployeScript.sql">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="ajouterClientScript.sql">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="modifierClientScript.sql">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="supprimerClientScript.sql">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="ajouterProduitScript.sql">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="modifierProduitScript.sql">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="supprimerProduitScript.sql">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="afficherCommandeScript.sql">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="ajouterCommandeScript.sql">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="modifierCommandeScript.sql">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="supprimerCommandeScript.sql">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="StatPanierMoyenScript.sql">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="StatValeurComScript.sql">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="StatProduitsSousSeuilScript.sql">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="Stat10MoinsVendusScript.sql">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="Stat10PlusVendusScript.sql">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="StatValeurAchatScript.sql">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="StatMontantClientScript.sql">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="StatCAScript.sql">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="StatSimuScript.sql">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+  </ItemGroup>
+</Project>

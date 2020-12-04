@@ -1,0 +1,17 @@
+D:\CESI\Projets\POO\POO_Project\POO_Project\Debug\POOProject.BackForm.resources
+D:\CESI\Projets\POO\POO_Project\POO_Project\Debug\POOProject.MainForm.resources
+D:\CESI\Projets\POO\POO_Project\POO_Project\Debug\POO_Project.vcxproj.GenerateResource.cache
+D:\CESI\Projets\POO\POO_Project\POO_Project\Debug\POO_Project.exe
+D:\CESI\Projets\POO\POO_Project\POO_Project\Debug\POO_Project.pdb
+D:\CESI\Projets\POO\POO_Project\POO_Project\Debug\POO_Project.vcxprojAssemblyReference.cache
+C:\Users\Thomas\Documents\CESI\2_Année\PROJET_2\POO_Project-master\POO_Project\Debug\POOProject.BackForm.resources
+C:\Users\Thomas\Documents\CESI\2_Année\PROJET_2\POO_Project-master\POO_Project\Debug\POOProject.MainForm.resources
+C:\Users\Thomas\Documents\CESI\2_Année\PROJET_2\POO_Project-master\POO_Project\Debug\POO_Project.vcxproj.GenerateResource.cache
+C:\Users\Thomas\Documents\CESI\2_Année\PROJET_2\POO_Project-master\POO_Project\Debug\POO_Project.exe
+C:\Users\Thomas\Documents\CESI\2_Année\PROJET_2\POO_Project-master\POO_Project\Debug\POO_Project.pdb
+C:\Users\Thomas\Documents\GitHub\PROJET-POO\POO_Project [Visual Studio]\Debug\POO_Project.vcxprojAssemblyReference.cache
+C:\Users\Thomas\Documents\GitHub\PROJET-POO\POO_Project [Visual Studio]\Debug\POOProject.BackForm.resources
+C:\Users\Thomas\Documents\GitHub\PROJET-POO\POO_Project [Visual Studio]\Debug\POOProject.MainForm.resources
+C:\Users\Thomas\Documents\GitHub\PROJET-POO\POO_Project [Visual Studio]\Debug\POO_Project.vcxproj.GenerateResource.cache
+C:\Users\Thomas\Documents\GitHub\PROJET-POO\POO_Project [Visual Studio]\Debug\POO_Project.exe
+C:\Users\Thomas\Documents\GitHub\PROJET-POO\POO_Project [Visual Studio]\Debug\POO_Project.pdb
